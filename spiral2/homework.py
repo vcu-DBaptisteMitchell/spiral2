@@ -34,4 +34,4 @@ def spiralize(size, n=1):
         return return_value
 
 
-# MERGE SORT CODE IS FROM THE WEEK 9 POWERPOINT WAS USED
+# MERGE SORT CODE FROM THE WEEK NINE POWERPOINT WAS USED
